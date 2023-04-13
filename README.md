@@ -14,6 +14,13 @@ Features:
 
 •	CRUD operations and additional features.
 
+How to Run?:
+
+
+npm install && cd src/server && npm install
+
+npm run startWithServer
+
 
 Login Screen:
 
