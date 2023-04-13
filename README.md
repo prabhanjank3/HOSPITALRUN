@@ -1,18 +1,13 @@
 HospitalRun is small web-based application which assists to keep track of medical records & helps doctors & patients in managing day to day clinic activities.
 
 Features:
+
 •	Dynamic home page, serving as the landing page for all users.
-
 •	Doctor  and user dashboards.
-
 •	User login page with professional handling of all kinds of validations.
-
 •	Ability for a patient to select an appointment and view doctor information, as well as their own appointment information.
-
 •	Option to select a doctor and view appointment date.
-
 •	CRUD operations and additional features.
-
 
 
 Login Screen:
