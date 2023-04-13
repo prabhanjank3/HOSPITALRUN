@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "DMSansRegular";   /*Can be any text*/
+  src: local("DMSansRegular"),
+    url("./assets/fonts/DMSans-Regular.ttf") format("truetype");
+}
+#root{
+  background-color: #F0F2F5;
+}
+.global-container
+{
+  background-color: #F0F2F5;
+}
+ul {
+  list-style-type: none !important;
+  margin: 0 !important;
+}
+
+/* .content ul li:first-of-type {
+  border-top: 1px solid #ddd;
+}
+
+.content ul li {
+  border-bottom: 1px solid #ddd;
+  padding: 4px;
+  margin: 0 !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: capitalize;
+} */
+
+h3 {
+  margin: 0 !important;
+}
+
+/* .table-header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.container > button {
+  margin-top: 10px;
+} */

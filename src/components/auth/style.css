@@ -1,0 +1,12 @@
+.login-form-box {
+  width: 90%;
+  margin-top: 50%;
+  margin: 0% auto 0px auto;
+  @media (min-width: 400px) {
+    width: 100%;
+  }
+}
+.form-logo {
+  width: 110%;
+  margin: auto;
+}

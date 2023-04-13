@@ -1,0 +1,4 @@
+Steps to start with new project:
+
+1. Create store with index.js file.
+  In index file, create instance of combineReducer using combineReducer() & store using configureStore().
