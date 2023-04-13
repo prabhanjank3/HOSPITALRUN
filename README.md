@@ -18,7 +18,9 @@ HospitalRun is small web-based application which assists to keep track of medica
 ## How to Run?
 
 `npm install`
+
 `cd src/server && npm install`
+
 `npm run startWithServer`
 
 
